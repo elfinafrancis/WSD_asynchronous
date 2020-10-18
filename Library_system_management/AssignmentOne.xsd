@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" 
+targetNamespace="http://www.example.org/AssignmentOne" 
+xmlns:tns="http://www.example.org/AssignmentOne" 
+elementFormDefault="qualified">
+
+<element name="Library">
+  <complexType>
+    <sequence>
+      <element name="Book">
+        <complexType>
+          <sequence>
+            <element name="Title" type="xs:string" />
+            <element name="Author" type="xs:string"/>
+            <element name="Edition" type="xs:integer"/>
+            <element name="ISBN" type="xs:integer"/>
+            <element name="Price" type="xs:decimal"/>
+          </sequence>
+        </complexType>
+      </element>
+      
+      
+      <element name="Student">
+        <complexType>
+          <sequence>
+            <element name="Name" type="xs:string"/>
+            <element name="Standard" type="xs:integer"/>
+            <element name="Department" type="xs:string"/>
+          </sequence>
+        </complexType>
+      </element>
+    </sequence>
+  </complexType>
+</element>
+</schema>
