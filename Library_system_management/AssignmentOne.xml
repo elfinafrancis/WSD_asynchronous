@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="AssignmentOne.xsl"?>
+<Library xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="AssignmentOne.xsd">
+<Book>
+    <Title>Alberuni’s India</Title>
+    <Author> Edward C Sachau</Author>
+    <Edition>3</Edition>
+    <ISBN>1928</ISBN>
+    <Price>149</Price>
+</Book>
+<Student>
+    <Name>Ann Mary</Name>
+    <Standard>11</Standard>
+    <Department>Humanities</Department>
+</Student>
+
+<Book>
+    <Title>India Divided</Title>
+    <Author>Rajendra Prasad</Author>
+    <Edition>2</Edition>
+    <ISBN>2837</ISBN>
+    <Price>290</Price>
+</Book>
+<Student>
+    <Name>Richa Soni</Name>
+    <Standard>11</Standard>
+    <Department>Humanities</Department>
+</Student>
+
+<Book>
+    <Title>the Theory of Everything</Title>
+    <Author>Stephen Hawking</Author>
+    <Edition>3</Edition>
+    <ISBN>67890</ISBN>
+    <Price>1000</Price>
+</Book>
+<Student>
+    <Name>Kiran T</Name>
+    <Standard>10</Standard>
+    <Department>Science</Department>
+</Student>
+
+<Book>
+    <Title>Mathematics Textbook for Class 11</Title>
+    <Author>NCERT</Author>
+    <Edition>5</Edition>
+    <ISBN>3746</ISBN>
+    <Price>210</Price>
+</Book>
+<Student>
+    <Name>Kavya Arun</Name>
+    <Standard>11</Standard>
+    <Department>Science</Department>
+</Student>
+
+<Book>
+    <Title>Handbook of Mathematics</Title>
+    <Author>Arihant Experts</Author>
+    <Edition>3</Edition>
+    <ISBN>4655</ISBN>
+    <Price>170</Price>
+</Book>
+<Student>
+    <Name>Ashok Sampath</Name>
+    <Standard>9</Standard>
+    <Department>Science</Department>
+</Student>
+
+</Library>
