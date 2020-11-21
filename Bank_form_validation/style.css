@@ -1,0 +1,53 @@
+
+validation {                                         
+    margin-left: 70px; 
+    font-weight: bold ; 
+    width: 100px; 
+    text-align: left; 
+    margin-right: 10px; 
+    font-family: sans-serif, Arial, Helvetica; 
+} 
+
+body {
+    background-color: #FFFF99;
+    font-family: "Times New Roman", Times, serif;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.container {
+    background-color: #fff;
+    border: 2px solid black;
+    overflow: hidden;
+    width: 600px;
+    max-width: 80%;
+    margin: 20px 320px;
+}
+
+h1 {
+    font-family: "Times New Roman", Times, serif;
+    justify-content: center;
+    margin: 0 auto; 
+    width: 400px;
+}
+
+form {                                         
+    margin: 0 auto; 
+    width: 200px; 
+    padding: 30px 40px; 
+}
+
+.button {
+    background-color: #FFFF99;
+    border: 2px solid black;
+    color: black;
+    font-size: 16px;
+    padding: 10px;
+    margin: 10px;
+    width: 30%;
+}
+
+
+
